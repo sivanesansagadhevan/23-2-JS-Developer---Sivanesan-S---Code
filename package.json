@@ -1,0 +1,17 @@
+{
+  "name": "price",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetch-product-details.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "he": "^1.2.0",
+    "strip-tags": "^0.1.1"
+  }
+}
